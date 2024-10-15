@@ -10,11 +10,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FMU** e apaixon
 
 ### O que estou estudando
 - 🎓 Preparando-me para a certificação **AZ-900** (Microsoft Azure Fundamentals)
-- 🐳 Estudando **Docker**, **Kubernetes** e **Serverless** para melhorar minhas habilidades em DevOps
+- 🐳 Estudando **Docker** para melhorar minhas habilidades em DevOps
 - 📚 Focando meus estudos em **bancos de dados** e **nuvem**
 
 ### Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,javascript,css,html,c,python,git,github,mysql,vscode,windows&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,javascript,css,html,c,python,git,github,mysql,vscode,windows&perline=9)](https://skillicons.dev)
 
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yurehfarias&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
